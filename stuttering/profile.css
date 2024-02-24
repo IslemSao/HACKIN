@@ -1,0 +1,158 @@
+
+body {
+    font-family: poppins;
+    background-color: #EBEBEB;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    align-items: center;
+    padding-left: 8vw;
+    font-family: poppins;
+    font-weight: 600;
+    font-style: normal;
+    background-color: white;
+}
+.nav-links {
+    padding-right: 3vw;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.nav-links-su{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-links-si {
+    transform: translate(0,15%);
+    background-color: white;
+    text-decoration: none;
+    list-style: none;
+    width: 12vw;
+    height: 5vh;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 11px;
+
+}
+.nav-links-si a {
+
+    color: #000000;
+    text-decoration: none;
+    font-size: 17px;
+}
+.profile{
+    display: flex;
+ margin-right: 10px;
+
+   
+    border-radius: 24px;
+background: #FFF;
+
+box-shadow: 0px 0px 20px 0px rgba(78, 78, 78, 0.25);
+}
+
+.myprofile{
+    margin-bottom: 0;
+    margin-top: 43px;
+    color: #000;
+font-family: Poppins;
+font-size: 40px;
+
+font-weight: 800;
+
+text-align: center;
+
+}
+.arya{
+    margin-top: 5px;
+    color: var(--Base-Shade-100, #000);
+font-family: poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.deux
+{
+    gap: 30px;
+}
+
+.un{
+    width: 197.952px;
+    height: 84.222px;
+    flex-shrink: 0;
+    border-radius: 24.771px;
+border: 0px solid var(--Background-Sub-Comment, rgba(240, 242, 245, 0.50));
+background: #FFF;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+}
+
+.big{
+
+    color: #000;
+transform: translate(0,40%);
+font-family: poppins;
+font-size: 21.056px;
+font-style: normal;
+font-weight: 600;
+line-height: 27.248px; /* 129.412% */
+}
+.lit{
+    color: var(--Color-Grey, #9098A3);
+    font-family: poppins;
+    font-size: 14.863px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.025px;
+    transform: translate(0,-50%);
+
+
+}
+.dims
+{
+    width: 45px;
+height: 45px;
+}
+
+.repcontain{
+    position: relative;
+    border-radius: 15px;
+background: #98005F;
+width: 276px;
+height: 53px;
+}
+#zedk{
+    position: absolute;
+    right: 60%;
+}
+.bigcontain{
+    width: 705px;
+    height: 318px;
+    flex-shrink: 0;
+    border-radius: 24.771px;
+    border: 0px solid var(--Background-Sub-Comment, rgba(240, 242, 245, 0.50));
+    background: #FFF;
+    padding: 30px;
+}
+.txt{
+    color: #000;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+    
+}

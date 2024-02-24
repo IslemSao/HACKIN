@@ -1,0 +1,57 @@
+#Home_Page{
+    background-color: #f5f5f5 !important;
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+.camera_div{
+    border: 1px #F5F5F5;
+    
+}
+
+.col-11 {
+    border: 1px solid #a0a0a0 !important;
+}
+
+.col-1{
+    border: 1px solid #a0a0a0 !important;
+}
+
+#meet_btn{
+    background-color: #20B2AA;
+    border-radius: 25px !important;
+    align-items: center !important;
+    display: flex !important;
+}
+
+#info{
+   height: 100px !important;
+   background-color: white; 
+}
+
+#video{
+    height: 295px !important;
+    border-radius: 15px !important;
+    background-color: #2b2b2b !important;
+    position: relative !important;
+}
+
+#cam_icon{
+position: absolute !important;
+z-index: 1 !important;
+}
+
+#end-call{
+    height: 60px !important;
+    width: 147px !important;
+    border-radius: 73px !important;
+}
+
+.participants{
+    height: 69px !important;
+    width: 351px !important;
+    border-radius: 30px !important;
+    background-color: white !important;
+}
+
+

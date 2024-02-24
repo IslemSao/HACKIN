@@ -1,0 +1,108 @@
+body {
+    font-family: poppins;
+    background-color: #EBEBEB;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    align-items: center;
+    padding-left: 8vw;
+    font-family: poppins;
+    font-weight: 600;
+    font-style: normal;
+    background-color: white;
+}
+.nav-links {
+    padding-right: 3vw;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+
+
+.nav-links-si {
+    transform: translate(0,15%);
+    background-color: white;
+    text-decoration: none;
+    list-style: none;
+    width: 12vw;
+    height: 5vh;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 11px;
+
+}
+.nav-links-si a {
+
+    color: #000000;
+    text-decoration: none;
+    font-size: 17px;
+}
+.profile{
+    display: flex;
+ margin-right: 10px;
+
+   
+    border-radius: 24px;
+background: #FFF;
+
+box-shadow: 0px 0px 20px 0px rgba(78, 78, 78, 0.25);
+}
+
+.myprofile{
+    margin-bottom: 0;
+    margin-top: 43px;
+    color: #000;
+font-family: Poppins;
+font-size: 40px;
+
+font-weight: 800;
+
+text-align: center;
+
+}
+.arya{
+    margin-top: 5px;
+    color: var(--Base-Shade-100, #000);
+font-family: poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.txt{
+    color: #98005F;
+
+    text-align: center;
+    
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}button{
+    width: 113px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 24px;
+border: 1px solid #000;
+
+background: #FFF;
+
+}
+.subfont{
+
+    color: #98005F;
+
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
