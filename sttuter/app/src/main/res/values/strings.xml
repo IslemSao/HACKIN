@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sttuter</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_doctors">doctors</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_sign_in">signIn</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_levels">levels</string>
+</resources>
